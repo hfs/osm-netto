@@ -1,0 +1,10 @@
+| osm_id                                                             | shop        | name                    | brand                   | brand:wikidata   | timestamp            |
+|:-------------------------------------------------------------------|:------------|:------------------------|:------------------------|:-----------------|:---------------------|
+| [node/4003318562](https://www.openstreetmap.org/node/4003318562)   | beverages   | Netto Getränke-Discount | Netto Getränke-Discount | nan              | 2024-07-25T18:03:30Z |
+| [node/4092308625](https://www.openstreetmap.org/node/4092308625)   | beverages   | Netto Getränke-Discount | Netto Getränke-Discount | nan              | 2019-02-24T11:18:53Z |
+| [node/2794489170](https://www.openstreetmap.org/node/2794489170)   | beverages   | Netto Getränkemarkt     | nan                     | nan              | 2016-11-08T22:41:01Z |
+| [node/12291770204](https://www.openstreetmap.org/node/12291770204) | supermarket | Netto Grefrath          | Netto Marken-Discount   | Q879858          | 2024-10-27T12:55:18Z |
+| [node/602166572](https://www.openstreetmap.org/node/602166572)     | supermarket | Netto Gambach           | Netto Marken-Discount   | Q879858          | 2024-10-08T16:25:19Z |
+| [node/12289503801](https://www.openstreetmap.org/node/12289503801) | supermarket | Netto                   | nan                     | nan              | 2024-10-26T05:52:04Z |
+| [way/90178191](https://www.openstreetmap.org/way/90178191)         | beverages   | Netto Getränkemarkt     | nan                     | nan              | 2015-11-03T16:24:18Z |
+| [way/130739919](https://www.openstreetmap.org/way/130739919)       | supermarket | netto                   | Netto                   | Q552652          | 2024-09-17T07:20:53Z |
