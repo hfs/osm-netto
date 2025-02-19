@@ -32,16 +32,10 @@ Create the Python virtual environment and install all dependencies:
 uv sync
 ```
 
-Activate the virtual environment (Use one of the other activation scripts in the `.venv/bin` directory if you use a different shell than bash):
-
-```bash
-. .venv/bin/activate
-```
-
 Start the development environment in the browser.
 
 ```bash
-jupyter-lab
+uv run jupyter-lab
 ```
 
 Open `netto.ipynb` from the directory tree.
