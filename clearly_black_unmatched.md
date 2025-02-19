@@ -1,9 +1,5 @@
 | osm_id                                                             | shop        | name   | brand   | brand:wikidata   | timestamp            |
 |:-------------------------------------------------------------------|:------------|:-------|:--------|:-----------------|:---------------------|
-| [node/10703837657](https://www.openstreetmap.org/node/10703837657) | supermarket | Netto  | Netto   | Q552652          | 2024-12-02T09:56:03Z |
-| [node/388266176](https://www.openstreetmap.org/node/388266176)     | supermarket | Netto  | Netto   | Q552652          | 2022-01-10T17:41:58Z |
-| [node/1983306505](https://www.openstreetmap.org/node/1983306505)   | supermarket | Netto  | Netto   | Q552652          | 2024-07-26T17:14:20Z |
-| [node/652135766](https://www.openstreetmap.org/node/652135766)     | supermarket | Netto  | Netto   | Q552652          | 2021-12-18T11:25:13Z |
 | [node/2131763897](https://www.openstreetmap.org/node/2131763897)   | supermarket | Netto  | Netto   | Q552652          | 2023-05-05T10:35:19Z |
 | [node/1252476612](https://www.openstreetmap.org/node/1252476612)   | supermarket | Netto  | Netto   | Q552652          | 2023-03-26T10:37:09Z |
 | [node/6738323685](https://www.openstreetmap.org/node/6738323685)   | supermarket | Netto  | Netto   | Q552652          | 2021-06-21T20:53:17Z |
