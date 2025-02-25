@@ -1,21 +1,14 @@
 | osm_id                                                             | shop        | name                    | brand                   | brand:wikidata   | timestamp            |
 |:-------------------------------------------------------------------|:------------|:------------------------|:------------------------|:-----------------|:---------------------|
 | [node/12080067241](https://www.openstreetmap.org/node/12080067241) | supermarket | Netto Marken-Discount   | Netto Marken-Discount   | Q879858          | 2024-07-29T12:54:20Z |
-| [node/3139879053](https://www.openstreetmap.org/node/3139879053)   | supermarket | Netto City              | Netto City              | Q879858          | 2021-09-29T18:12:17Z |
-| [node/776882626](https://www.openstreetmap.org/node/776882626)     | supermarket | Netto Marken-Discount   | Netto Marken-Discount   | Q879858          | 2022-06-12T07:45:57Z |
-| [node/9718604124](https://www.openstreetmap.org/node/9718604124)   | supermarket | Netto Marken-Discount   | Netto Marken-Discount   | Q879858          | 2022-06-12T08:30:30Z |
 | [node/341709693](https://www.openstreetmap.org/node/341709693)     | supermarket | Netto Marken-Discount   | Netto Marken-Discount   | Q879858          | 2024-02-28T15:47:09Z |
 | [node/7147142368](https://www.openstreetmap.org/node/7147142368)   | supermarket | Netto Marken-Discount   | Netto Marken-Discount   | Q879858          | 2024-08-30T17:34:36Z |
 | [node/9530398685](https://www.openstreetmap.org/node/9530398685)   | supermarket | Netto Marken-Discount   | Netto Marken-Discount   | Q879858          | 2024-06-22T09:30:21Z |
 | [node/8812781101](https://www.openstreetmap.org/node/8812781101)   | supermarket | Netto Marken-Discount   | Netto Marken-Discount   | Q879858          | 2024-08-14T00:55:17Z |
-| [node/1584879176](https://www.openstreetmap.org/node/1584879176)   | supermarket | Netto Marken-Discount   | Netto Marken-Discount   | Q879858          | 2021-08-25T19:32:16Z |
 | [node/602166572](https://www.openstreetmap.org/node/602166572)     | supermarket | Netto Marken-Discount   | Netto Marken-Discount   | Q879858          | 2025-02-23T21:17:49Z |
 | [node/2302251146](https://www.openstreetmap.org/node/2302251146)   | supermarket | Netto Marken-Discount   | Netto Marken-Discount   | Q879858          | 2024-10-08T16:25:19Z |
-| [node/10223785253](https://www.openstreetmap.org/node/10223785253) | supermarket | Netto Marken-Discount   | Netto Marken-Discount   | Q879858          | 2022-11-28T15:46:40Z |
 | [node/1483982181](https://www.openstreetmap.org/node/1483982181)   | supermarket | Netto Marken-Discount   | Netto Marken-Discount   | Q879858          | 2025-02-05T13:21:47Z |
-| [node/2282991702](https://www.openstreetmap.org/node/2282991702)   | supermarket | Netto Marken-Discount   | Netto Marken-Discount   | Q879858          | 2023-01-07T19:16:35Z |
 | [node/1249018360](https://www.openstreetmap.org/node/1249018360)   | supermarket | Netto Marken-Discount   | Netto Marken-Discount   | Q879858          | 2024-10-08T16:25:19Z |
-| [node/309117935](https://www.openstreetmap.org/node/309117935)     | supermarket | Netto Marken-Discount   | Netto Marken-Discount   | Q879858          | 2022-06-08T14:34:08Z |
 | [node/1308125005](https://www.openstreetmap.org/node/1308125005)   | supermarket | Netto Marken-Discount   | Netto Marken-Discount   | Q879858          | 2024-08-28T15:48:29Z |
 | [node/1882671370](https://www.openstreetmap.org/node/1882671370)   | supermarket | Netto City              | Netto City              | Q879858          | 2024-10-08T16:25:19Z |
 | [node/12357532383](https://www.openstreetmap.org/node/12357532383) | supermarket | Netto Marken-Discount   | Netto Marken-Discount   | Q879858          | 2024-11-20T06:54:03Z |
@@ -26,7 +19,6 @@
 | [way/1219331122](https://www.openstreetmap.org/way/1219331122)     | supermarket | Netto Marken-Discount   | Netto Marken-Discount   | Q879858          | 2023-10-29T15:44:44Z |
 | [way/193055357](https://www.openstreetmap.org/way/193055357)       | supermarket | Netto Marken-Discount   | Netto Marken-Discount   | Q879858          | 2024-05-26T03:24:03Z |
 | [way/111610546](https://www.openstreetmap.org/way/111610546)       | supermarket | Netto Marken-Discount   | Netto Marken-Discount   | Q879858          | 2025-02-14T14:12:14Z |
-| [way/129902974](https://www.openstreetmap.org/way/129902974)       | supermarket | Netto Marken-Discount   | Netto Marken-Discount   | Q879858          | 2025-01-05T08:38:20Z |
 | [way/364514945](https://www.openstreetmap.org/way/364514945)       | supermarket | Netto Marken-Discount   | Netto Marken-Discount   | Q879858          | 2024-10-08T16:25:33Z |
 | [way/131497293](https://www.openstreetmap.org/way/131497293)       | supermarket | Netto Marken-Discount   | Netto Marken-Discount   | Q879858          | 2021-06-08T20:26:48Z |
 | [way/203765355](https://www.openstreetmap.org/way/203765355)       | supermarket | Netto Marken-Discount   | Netto Marken-Discount   | Q879858          | 2021-09-28T13:35:22Z |
