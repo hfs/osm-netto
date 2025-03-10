@@ -1,2 +1,3 @@
-| osm_id   | shop   | name   | brand   | brand:wikidata   | timestamp   |
-|----------|--------|--------|---------|------------------|-------------|
+| osm_id                                                       | shop        | name   | brand   | brand:wikidata   | timestamp            |
+|:-------------------------------------------------------------|:------------|:-------|:--------|:-----------------|:---------------------|
+| [way/188173692](https://www.openstreetmap.org/way/188173692) | supermarket | Netto  | Netto   | Q552652          | 2025-03-10T18:43:06Z |
