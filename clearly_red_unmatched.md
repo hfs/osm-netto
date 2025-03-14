@@ -1,4 +1,3 @@
-| osm_id                                                           | shop        | name                  | brand                 | brand:wikidata   | timestamp            |
-|:-----------------------------------------------------------------|:------------|:----------------------|:----------------------|:-----------------|:---------------------|
-| [node/8812781101](https://www.openstreetmap.org/node/8812781101) | supermarket | Netto Marken-Discount | Netto Marken-Discount | Q879858          | 2025-03-01T15:18:54Z |
-| [node/602166572](https://www.openstreetmap.org/node/602166572)   | supermarket | Netto Marken-Discount | Netto Marken-Discount | Q879858          | 2025-02-23T21:17:49Z |
+| osm_id                                                         | shop        | name                  | brand                 | brand:wikidata   | timestamp            |
+|:---------------------------------------------------------------|:------------|:----------------------|:----------------------|:-----------------|:---------------------|
+| [node/602166572](https://www.openstreetmap.org/node/602166572) | supermarket | Netto Marken-Discount | Netto Marken-Discount | Q879858          | 2025-02-23T21:17:49Z |
